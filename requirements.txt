@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+pyyaml
+nltk
+datasets
+transformers
+torch
+"transformers[torch]"
